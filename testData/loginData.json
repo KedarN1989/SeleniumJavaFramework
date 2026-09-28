@@ -1,0 +1,14 @@
+{
+	"data": [
+		{
+			"emailAddress": "fetahat511@hiredify.com",
+			"password": "Password",
+			"expectedUserName": "Kedar Narvekar"
+		},
+		{
+			"emailAddress": "wowofe82171@duidir.com",
+			"password": "Password",
+			"expectedUserName": "Some Value"
+		}
+	]
+}

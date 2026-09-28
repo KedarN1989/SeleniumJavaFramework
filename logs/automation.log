@@ -1,0 +1,124 @@
+2026-09-269 16:16:07 [main] [INFO] [com.ui.listeners.TestListeners::onStart::57] The test suite execution is started ... 
+2026-09-269 16:16:07 [main] [INFO] [com.ui.pages.HomePage::<init>::58] Launching browser for CHROME 
+2026-09-269 16:16:08 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::81] Navigating to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::83] Navigated to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.HomePage::maximizeWindow::88] Browser window is maximized 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::27] loginCSVTest 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::28] Verifies if valid user is able to login into the application 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::29] [e2e, sanity] 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::33] The test case execution started... 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.HomePage::goToLoginPage::34] Clicking on sign in for navigating to login page 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.HomePage::clickOn::92] Clicking on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.HomePage::clickOn::95] Clicked on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::22] Performing login operation 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuewowofe8217@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuewowofe8217@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:09 [main] [INFO] [com.ui.pages.LoginPage::clickOn::92] Clicking on element: By.id: SubmitLogin 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.LoginPage::clickOn::95] Clicked on element: By.id: SubmitLogin 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::27] Login operation completed 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.MyAccountPage::getUserName::20] Getting username locator visible text 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.MyAccountPage::getVisibleText::108] Got this visible text Kedar Narvekar on this element By.xpath: //a[@title="View my customer account"]/span 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::36] The test case execution completed... 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.listeners.TestListeners::onTestSuccess::34] loginCSVTest is PASSED 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.HomePage::<init>::58] Launching browser for CHROME 
+2026-09-269 16:16:10 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::81] Navigating to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::83] Navigated to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.HomePage::maximizeWindow::88] Browser window is maximized 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::27] loginCSVTest 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::28] Verifies if valid user is able to login into the application 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::29] [e2e, sanity] 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::33] The test case execution started... 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.HomePage::goToLoginPage::34] Clicking on sign in for navigating to login page 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.HomePage::clickOn::92] Clicking on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.HomePage::clickOn::95] Clicked on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::22] Performing login operation 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:11 [main] [INFO] [com.ui.pages.LoginPage::clickOn::92] Clicking on element: By.id: SubmitLogin 
+2026-09-269 16:16:12 [main] [INFO] [com.ui.pages.LoginPage::clickOn::95] Clicked on element: By.id: SubmitLogin 
+2026-09-269 16:16:12 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::27] Login operation completed 
+2026-09-269 16:16:12 [main] [INFO] [com.ui.pages.MyAccountPage::getUserName::20] Getting username locator visible text 
+2026-09-269 16:16:12 [main] [WARN] [com.ui.listeners.TestListeners::onTestSkipped::52] loginCSVTest is SKIPPED 
+2026-09-269 16:16:12 [main] [INFO] [com.ui.pages.HomePage::<init>::58] Launching browser for CHROME 
+2026-09-269 16:16:12 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::81] Navigating to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::83] Navigated to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.HomePage::maximizeWindow::88] Browser window is maximized 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::27] loginCSVTest 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::28] Verifies if valid user is able to login into the application 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::29] [e2e, sanity] 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::33] The test case execution started... 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.HomePage::goToLoginPage::34] Clicking on sign in for navigating to login page 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.HomePage::clickOn::92] Clicking on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.HomePage::clickOn::95] Clicked on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::22] Performing login operation 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:13 [main] [INFO] [com.ui.pages.LoginPage::clickOn::92] Clicking on element: By.id: SubmitLogin 
+2026-09-269 16:16:14 [main] [INFO] [com.ui.pages.LoginPage::clickOn::95] Clicked on element: By.id: SubmitLogin 
+2026-09-269 16:16:14 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::27] Login operation completed 
+2026-09-269 16:16:14 [main] [INFO] [com.ui.pages.MyAccountPage::getUserName::20] Getting username locator visible text 
+2026-09-269 16:16:14 [main] [WARN] [com.ui.listeners.TestListeners::onTestSkipped::52] loginCSVTest is SKIPPED 
+2026-09-269 16:16:14 [main] [INFO] [com.ui.pages.HomePage::<init>::58] Launching browser for CHROME 
+2026-09-269 16:16:14 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::81] Navigating to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::83] Navigated to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::maximizeWindow::88] Browser window is maximized 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::27] loginCSVTest 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::28] Verifies if valid user is able to login into the application 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::29] [e2e, sanity] 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::33] The test case execution started... 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::goToLoginPage::34] Clicking on sign in for navigating to login page 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::clickOn::92] Clicking on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::clickOn::95] Clicked on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::22] Performing login operation 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::clickOn::92] Clicking on element: By.id: SubmitLogin 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::clickOn::95] Clicked on element: By.id: SubmitLogin 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::27] Login operation completed 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.MyAccountPage::getUserName::20] Getting username locator visible text 
+2026-09-269 16:16:16 [main] [WARN] [com.ui.listeners.TestListeners::onTestSkipped::52] loginCSVTest is SKIPPED 
+2026-09-269 16:16:16 [main] [INFO] [com.ui.pages.HomePage::<init>::58] Launching browser for CHROME 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::81] Navigating to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.pages.HomePage::goToWebsite::83] Navigated to this website: https://automationpractice.techwithjatin.com 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.pages.HomePage::maximizeWindow::88] Browser window is maximized 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::27] loginCSVTest 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::28] Verifies if valid user is able to login into the application 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.listeners.TestListeners::onTestStart::29] [e2e, sanity] 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.tests.LoginTest::loginCSVTest::33] The test case execution started... 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.pages.HomePage::goToLoginPage::34] Clicking on sign in for navigating to login page 
+2026-09-269 16:16:17 [main] [INFO] [com.ui.pages.HomePage::clickOn::92] Clicking on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.HomePage::clickOn::95] Clicked on element: By.xpath: //a[contains(text(),"Sign")] 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::22] Performing login operation 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuewowofe82171@duidir.com in edit text element: By.id: email 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::enterText::99] Entering valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::enterText::102] Entered valuePassword in edit text element: By.name: passwd 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::clickOn::92] Clicking on element: By.id: SubmitLogin 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::clickOn::95] Clicked on element: By.id: SubmitLogin 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.LoginPage::doLoginWith::27] Login operation completed 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.pages.MyAccountPage::getUserName::20] Getting username locator visible text 
+2026-09-269 16:16:18 [main] [ERROR] [com.ui.listeners.TestListeners::onTestFailure::39] loginCSVTest is FAILED 
+2026-09-269 16:16:18 [main] [ERROR] [com.ui.listeners.TestListeners::onTestFailure::40] no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title="View my customer account"]/span"}
+  (Session info: chrome=153.0.8010.54)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c903051e56afdc79fbe0d8551f3db24, findElement {value=//a[@title="View my customer account"]/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.54, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\kedar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58458}, goog:processID: 34868, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58458/devtoo..., se:cdpVersion: 153.0.8010.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c903051e56afdc79fbe0d8551f3db24 
+2026-09-269 16:16:18 [main] [ERROR] [com.ui.listeners.TestListeners::onTestFailure::39] loginCSVTest is FAILED 
+2026-09-269 16:16:18 [main] [ERROR] [com.ui.listeners.TestListeners::onTestFailure::40] Unresolved compilation problems: 
+	Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+	Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+	s cannot be resolved
+ 
+2026-09-269 16:16:18 [main] [INFO] [com.ui.listeners.TestListeners::onFinish::62] The test suite execution is completed ... 
